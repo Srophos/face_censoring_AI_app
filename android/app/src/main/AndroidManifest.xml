@@ -1,8 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
-<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> 
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
     <application
         android:requestLegacyExternalStorage="true"
-        android:label="image_upload_app"
+        android:label="auto-face censorship"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
