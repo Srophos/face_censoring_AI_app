@@ -62,7 +62,7 @@ Install dependencies (e.g., using CocoaPods or Gradle).
 Build and run the application on a physical device.
 
 🖼️ Usage
-(This is a placeholder section. You can describe how to use your app.)
+
 
 Launch the app.
 
@@ -70,4 +70,4 @@ Grant camera or photo library permissions.
 
 Select an image from your gallery or take a new photo.
 
-The app will automatically detect faces and display the range of their age.
+The app will automatically detect faces and display the range of their age. In case of children from the age of 1-13 years it will automatically prompt the user if they want to censor their faces and show the preview.
