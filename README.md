@@ -53,7 +53,7 @@ Swift / Kotlin environment
 Installation
 Clone the repo
 
-git clone [https://github.com/your_username/your_repository.git](https://github.com/your_username/your_repository.git)
+git clone [https://github.com/your_username/your_repository.git](github.com/Srophos/face_censoring_AI_app)
 
 Open the project in your IDE.
 
