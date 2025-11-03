@@ -71,3 +71,5 @@ Grant camera or photo library permissions.
 Select an image from your gallery or take a new photo.
 
 The app will automatically detect faces and display the range of their age. In case of children from the age of 1-13 years it will automatically prompt the user if they want to censor their faces and show the preview.
+
+## [![Watch the Demo Video](https://github.com/Srophos/face_censoring_AI_app/blob/main/demo/ss.jpg)](https://github.com/Srophos/face_censoring_AI_app/blob/main/demo/demo_video.mp4)
