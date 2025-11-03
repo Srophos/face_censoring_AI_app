@@ -41,26 +41,12 @@ Prioritizing User Experience Over Brute Force: Instead of using a large, slow, b
 On-Device Processing for Privacy: Many AI solutions are cloud-based, requiring users to upload personal photos to a server. This raises significant privacy concerns. By ensuring all processing happens locally, this app is fundamentally more private and secure.
 
 🚀 Getting Started
-(This is a placeholder section. You can update it with your specific build instructions.)
-
-To get a local copy up and running, follow these simple steps.
-
-Prerequisites
-Xcode / Android Studio
-
-Swift / Kotlin environment
 
 Installation
-Clone the repo
 
-git clone [https://github.com/Srophos/face_censoring_AI_app](github.com/Srophos/face_censoring_AI_app)
-
-Open the project in your IDE.
-
-Install dependencies (e.g., using CocoaPods or Gradle).
-
-Build and run the application on a physical device.
-
+[![Download](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Srophos/face_censoring_AI_app/releases/latest)
+OR
+You can download the latest version of the APK for Android from the **Releases** page.
 🖼️ Usage
 
 
