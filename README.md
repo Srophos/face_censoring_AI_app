@@ -1,4 +1,4 @@
-# On-Device Face & Age Recognition
+# Privacy-First AI App: Real-Time Face Detection (YOLOv8), Age Classification, & Child-Face Censoring
 A practical, privacy-first mobile application that performs real-time face detection and age classification directly on your device. This project demonstrates how to overcome the key engineering challenges of running complex AI models on mobile platforms while maintaining a smooth, responsive user experience.
 
 🌟 Key Features
@@ -71,3 +71,5 @@ Grant camera or photo library permissions.
 Select an image from your gallery or take a new photo.
 
 The app will automatically detect faces and display the range of their age. In case of children from the age of 1-13 years it will automatically prompt the user if they want to censor their faces and show the preview.
+## Watch the Demo Video : 
+## [![Watch the Demo Video](https://github.com/Srophos/face_censoring_AI_app/blob/main/demo/ss.jpg)](https://youtube.com/shorts/X5xB6MV0EsQ)
