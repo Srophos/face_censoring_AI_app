@@ -1,4 +1,4 @@
-# On-Device Face & Age Recognition
+# Privacy-First AI App: Real-Time Face Detection (YOLOv8), Age Classification, & Child-Face Censoring
 A practical, privacy-first mobile application that performs real-time face detection and age classification directly on your device. This project demonstrates how to overcome the key engineering challenges of running complex AI models on mobile platforms while maintaining a smooth, responsive user experience.
 
 🌟 Key Features
