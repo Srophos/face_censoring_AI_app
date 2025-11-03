@@ -45,8 +45,11 @@ On-Device Processing for Privacy: Many AI solutions are cloud-based, requiring u
 Installation
 
 [![Download](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Srophos/face_censoring_AI_app/releases/latest)
+
 OR
+
 You can download the latest version of the APK for Android from the **Releases** page.
+
 🖼️ Usage
 
 
